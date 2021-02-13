@@ -2,6 +2,8 @@
 
 Custom icons that match macOS Big Sur rounded style
 
+<img src="https://raw.githubusercontent.com/aorcsik/big-sur-icons/main/dock-preview.jpg" alt="Dock Preview" width="315">
+
 ## Usage
 
 1. Download the icon
